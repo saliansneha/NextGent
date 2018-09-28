@@ -1,0 +1,55 @@
+AGENT: Good afternoon Citi card customer service and Marilyn my name is Tony can I get your account number please. Michael. 
+
+CLIENT: It's. 
+
+AGENT: Thank you and I just need to let you know this call maybe monitored and or recorded for training and quality purposes. When you get your name as it appears on your account please and how are you doing today. 
+
+CLIENT: I'm alright, you guys must be swamped. I was on hold for like 20 minutes. 
+
+AGENT: 12 minutes. Might be a little so I think we're getting better them. Yeah. I was I didn't manually. 
+
+CLIENT: I think it is much see I've I've heard I've heard there's a big my gracious. 
+
+AGENT: I do show you have a kaska or anywhere Visa card and looking to help you with today. 
+
+CLIENT: So I just need to increase my credit limit. I try to do it online, but it didn't work. 
+
+AGENT: Okay, I'll be glad to see what we can do here for you give me one second. And fortunately, we were unable to instantly approve your credit limit increase at this time. If you would like our credit department to review your request further a credit bureau report will be pulled what you'd like to continue. 
+
+CLIENT: Well, I'm one is it possible to take a credit from some other Citi cards that I have moving around. 
+
+AGENT: Well, unfortunately, we wouldn't be able to transfer from another card. 
+
+CLIENT: Dash. Wanted to see um. Yeah, then that's fine you can run run the report. 
+
+AGENT: May I have your total annual income if you're 21 or old are you may include income from others that you can receive the access to pay your bills you don't have to include alimony child support or separate maintenance income. If you don't want to consider it as a basis for anything that says. 
+
+CLIENT: I would be to. 
+
+AGENT: Okay, so your total annual income 200. May have your monthly mortgage a rent payment amount. 
+
+CLIENT: Three thousands that that that include my portion or the overall rent if it's of the household. 
+
+AGENT: I just ask you for your monthly mortgage a rent payment amount. 
+
+CLIENT: And then if you saw the 1500. 
+
+AGENT: And back to the total annual income is that 200000. Okay. Give me one second here. You said, 200, I think that you have a down that doesn't sound right. Okay. One. Second, that's okay once. I submit the request for this credit limit increase. We will not be able to make any changes. I have entered your total annual income is 200000 and your monthly mortgage rent payment amount of 3000 would you like me to continue. 
+
+CLIENT: I mean. You can put it in as 1500. 
+
+AGENT: Give me one second here. Okay, once I submit the request for this credit limit increase. We will not be able to make any changes. I have entered your total annual income is 200000 and your monthly mortgage a rent payment amount at 1500. Would you like me to continue? 
+
+CLIENT: Yes. 
+
+AGENT: Say, thank you no and what would you like to request your purchase limit City. 
+
+CLIENT: Um, can we make it 10000. 
+
+AGENT: Okay, and would you like to speak with a credit specialist today or just go ahead and submit the information to be reviewed you should have a decision within 24 hours. 
+
+CLIENT: You know we can just. 
+
+AGENT: And how would you like to be contacted by phone email well, you know. And can you verify your email address for me please. Okay. Thank you. Alright, I'll go ahead and get that information submitted for you was or anything else. We can help you with today. Alright, you have a great day and we appreciate your business with that you take care. 
+
+|100047 

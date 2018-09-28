@@ -1,0 +1,13 @@
+AGENT: Yes, Lee this is she hello. Yes, I am electronic payment. Community bank. $12601.35. 
+
+CLIENT: Okay. 
+
+AGENT: You know what let's go over this. Second, you just said you're taking my payment in today, but you're not crediting my account for two days. After two business days. 
+
+CLIENT: Okay, I thought that happening like tomorrow, you know. I see. Okay. Okay. Okay, you know, it's it's after 5083. Okay. 
+
+AGENT: Okay, and I have the confirmation number. Okay. Thank you very much. 
+
+CLIENT: I don't thank you. Bye bye six. 
+
+|100061 

@@ -1,0 +1,31 @@
+AGENT: Thank you for calling Citi and this is Diana how can I help you. 
+
+CLIENT: Yes, I'm just looking to update my address please. 
+
+AGENT: No problem I'll be more than happy to assist you may I please have your first and last name and yes, I'm ready now with your new mailing address. 
+
+CLIENT: Everything is changed to Street just read this now. 
+
+AGENT: Okay and same City state and zip code. Okay. I can see here that the already have that added to the account sir. Let me check. 
+
+CLIENT: I was look at my old man maybe at the office. I'm looking at from my last payment. So if you're okay. 
+
+AGENT: It's limited by us Ps an engine light. 
+
+CLIENT: Okay, I great and thank you very much. 
+
+AGENT: You're very much welcome and the future. If you wanted to update your information you can also do that online a City cars.com and I like to remind you sir for your time, bye. If you have $63.15 would like to re deem it. 
+
+CLIENT: Not yet. 
+
+AGENT: Okay. No problem see, if there anything else. 
+
+CLIENT: I am all set. Thank you very much. 
+
+AGENT: Alright, you're welcome sir. I hope you have a great one. 
+
+CLIENT: You too bye bye. 
+
+AGENT: Thank you bye bye. 
+
+|100102 

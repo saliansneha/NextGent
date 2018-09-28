@@ -1,0 +1,15 @@
+AGENT: I have a 230 my name is Mary mask your name please. Hello, Ms. And I'm sorry about the long delay. How may help you today? 
+
+CLIENT: I was just making a payment over the phone no one going through. I just want Daniel or whatever I think continue and then when you. 
+
+AGENT: Okay, let's try to make sure that nothing is processed or if there was one process already. So give me a quick second to check it out. Okay. Thank you. And I'm sorry about that voice response system, sir. Let me make sure that nothing is pending. I see here today $100. 
+
+CLIENT: Yes, I. 
+
+AGENT: Are I definitely see that the minutes on the accounts pending today. It was processed, but do you want to take a confirmation number for that and we're able to get it. 
+
+CLIENT: Already got a confirmation. 
+
+AGENT: Yes, perfect, that's the one. They went over there. Higher any all righty. Yeah, welcome. Thank you take care. 
+
+|100082 

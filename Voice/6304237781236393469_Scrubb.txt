@@ -1,0 +1,23 @@
+AGENT: Hi, look, I'm a Citi cards customer service. This is Jane may I please have your names that up here and the card help you with your advantage plan and card man. 
+
+CLIENT: How you were gonna send me a refund? Check for my credit balance and I haven't received it. 
+
+AGENT: It'll be sent you have a lot of medically by the system. If you will not request for it for three months billing. 
+
+CLIENT: What is? 
+
+AGENT: It will be sent to you automatically by this is Debbie. If you will not request for that and the billing statement. Is actually I have? 
+
+CLIENT: I don't right now. I am requesting that we sent. 
+
+AGENT: Okay. No problem may I have your mailing address. Okay. You will receive a check maam with and stay to five business days for $16.03. 
+
+CLIENT: Great thanks. 
+
+AGENT: Yeah, welcome anything else that I may help you. 
+
+CLIENT: So I don't think you. 
+
+AGENT: Okay. Great, you're welcome. Have a lovely day? 
+
+|100043 
