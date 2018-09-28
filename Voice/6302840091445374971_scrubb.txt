@@ -1,0 +1,19 @@
+AGENT: Thank you for calling Citi. My name is Nicky may. I get your name please. Thank you. How are you doing today? Right now I have had to been account pulled up your how may help you. 
+
+CLIENT: My wallet got stolen out of my purse yesterday and so I need to put a stop on card. 
+
+AGENT: So, I mean, I'm not a problem, I'll take care of that for you. I will issue a new card with a new number on it and I will cancel the card that you last so and if there are any fraudulent charges maam City will take care of those for you you don't have to pay a single Penny for those fraudulent charges so let me go to the most recent charges for you. So I see that the last charge was made yesterday to shetler is Pierre period. $133.88 is that it will charge it. 
+
+CLIENT: And I just want to see the last time I used it so. 
+
+AGENT: Oh great can you please verify your mailing address. Wonderful now have you open that City for like 11 years of the next one payment history out expedite the card for you you will get it sent in the next two business days that your mailing address without any charge. Okay. 
+
+CLIENT: Okay. Alright, thank you have a. 
+
+AGENT: You're welcome anything else that I may help you with. 
+
+CLIENT: To do it. 
+
+AGENT: Thank you maam have a good day, bye. Thank you. 
+
+|100009 

@@ -1,0 +1,25 @@
+AGENT: Thanks for calling customer service. This is Alvin can I have your full name please afternoon how can I help you with your advantage card today. 
+
+CLIENT: But you know, I was just kinda wondering about and miles accumulated on my card. I want I if I had any and if I could transfer them over to my account. I wasn't quite sure what. 
+
+AGENT: With regards to the transfer and the consolidation of your mileage American Airlines can assist you with that and I was telling you how many miles do you have on your account right now. 
+
+CLIENT: Yes, hi. 
+
+AGENT: Okay, so it's on my know if that you currently have it's 21036 my own as as of today, that's what we have in our records by any chance. Do you see are you aware about your frequent flyer lady. 
+
+CLIENT: I yes, I do have my supervisor. If you want me to give it to you. 
+
+AGENT: Yes, maam just to confirm. 
+
+CLIENT: Nine, well, you know half by the isa Edward C for cat. 
+
+AGENT: That's the same frequency lawyer ID. We have on file. So if you would like to know more about how you can use this miles for travel. I'll connect you to our customer service department for American Airlines would you like. 
+
+CLIENT: Okay, and yes, please thank you. 
+
+AGENT: Calling customer service by. 
+
+CLIENT: Okay, thank you. 
+
+|100016 

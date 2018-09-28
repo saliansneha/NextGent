@@ -1,0 +1,23 @@
+AGENT: Finance eight is Rosemarie. I have your name on your account please. Thank you. And can you tell me the name of the primary card holder. Thank you, sir. And how may I help you? 
+
+CLIENT: I just was curious we had a transaction that was declined just hear a little bit ago and I didn't know why. 
+
+AGENT: Well, I certainly can check later card and and we're actually just give me one moment. I'll pull up your information. How much is $1 amount for the charge for? 
+
+CLIENT: It's around $34. 
+
+AGENT: $34 and okay. You got 23000 available on the accounts are. 
+
+CLIENT: I know, I don't know why it was declined that's why I'm calling. I mean, it's it's current I used it since then I just didn't understand why I was got a text message it says it was declined and. 
+
+AGENT: It's just hear sir. I see the transaction being made on your wife's card. They're putting in an invalid security code that's why it wasn't going through. I did try to charge the account they're putting in an invalid security code sir. But there's no block on your card, that's one thing. I can assure you. 
+
+CLIENT: Okay, so it's the retail person put invalid security code. 
+
+AGENT: Yes, are whoever it is is trying to charge me a calendar manually putting in her card information and the security guard wasn't matching, but there's not a hold on the regard because I see that you've used your card yesterday it's for out. 
+
+CLIENT: That's okay, that's what I need to know. 
+
+AGENT: Alright, well I'm glad I was able to check down. Thank you. Again for banking with City as you're in the jury a holiday tomorrow. 
+
+|100015 

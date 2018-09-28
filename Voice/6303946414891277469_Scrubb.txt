@@ -1,0 +1,31 @@
+AGENT: Thank you for calling Citi. This is Irish gonna have your first and last name. Thank you very much it afternoon, sir. How are you doing today? 
+
+CLIENT: I'm doing just fine. 
+
+AGENT: That's good, let me just open up your account for you. Okay. And how may help you sir. 
+
+CLIENT: I just made a payment of $100 which I got a confirmation number. But your automated system said that payment won't come out until the 16th. I want that payment to come out and another one regular payment on the 16th. 
+
+AGENT: Okay, so 100 today and on the 16 another 100. 
+
+CLIENT: Know with the 35. 
+
+AGENT: Oh, okay, I'm sorry to hear about what happened. Yeah. Thank you. Though for the payment today, sir. Let me just check on the notes to see I see what happened with the payment. Again, yes. Thank you sir. Oh, okay, according to the records are at your payment for today. It's already been successfully posted for the $100 is and another scheduled payment on the 16, which is 35 and $0.90. 
+
+CLIENT: Okay, so we got that one straight days and I. 
+
+AGENT: Yes for two days already been posted. 
+
+CLIENT: Oh, okay, right that's what I'm supposed to come out of my account today or tomorrow and then that my regular payment on the 16th. 
+
+AGENT: 16 yes. 
+
+CLIENT: Alright, thank you. 
+
+AGENT: You're welcome. Thank you for choosing City for 16 years have a nice day sir. 
+
+CLIENT: You're welcome. 
+
+AGENT: Thank you bye bye. 
+
+|100036 
